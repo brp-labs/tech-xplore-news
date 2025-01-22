@@ -6,7 +6,7 @@ const App = () => {
     const [error, setError] = useState(null);
 
     useEffect(() => {
-        fetch('http://localhost:8080/api/rss')
+        fetch('https://tech-xplore-news-backend.azurewebsites.net/api/rss')
             .then(response => {
                 if (!response.ok) {
                     throw new Error('Network response was not ok');
@@ -38,8 +38,6 @@ const App = () => {
                 <span>
                     This application for sharing tech news is made by Brian Ravn Pedersen.
                     The application's files can be found here at <a href="https://github.com/brp-labs/tech-xplore-news" target="_blank">GitHub</a>.
-
-
                 </span>
             </div>
 
