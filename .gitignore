@@ -23,12 +23,10 @@ yarn-debug.log*
 yarn-error.log*
 
 # custom
-*.txt
 *copy*
+NOTES.txt
 
 # Visual Studio
 .vs/
 
-# custom
-NOTES.txt
 
