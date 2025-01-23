@@ -7,5 +7,4 @@ python main.py &
 cd ../frontend
 npm start
 
-# Additional
-cd ../backend
+
