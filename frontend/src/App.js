@@ -37,7 +37,7 @@ const App = () => {
             <div class="info">
                 <span>
                     This application for sharing tech news is made by Brian Ravn Pedersen.
-                    The application's files can be found here at <a href="https://github.com/brp-labs/tech-xplore-news" target="_blank">GitHub</a>.
+                    The application's files can be found here at <a href="https://github.com/brp-labs/tech-xplore-news" target="_blank" rel="noreferrer">GitHub</a>.
                 </span>
             </div>
 
