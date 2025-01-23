@@ -6,3 +6,6 @@ python main.py &
 # Start	React frontend
 cd ../frontend
 npm start
+
+# Additional
+cd ../backend
