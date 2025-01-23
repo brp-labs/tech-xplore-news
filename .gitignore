@@ -30,5 +30,5 @@ yarn-error.log*
 .vs/
 
 # custom
-*.txt
+NOTES.txt
 
